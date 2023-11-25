@@ -9,4 +9,4 @@ Block Facebook Clips and Stories on Your Homepage by using "Ublock"
 #### ``www.facebook.com##div.x1lliihq:nth-of-type(4)``
 ## 3/Paste it on:
 **chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html**
-If does not work, Click on Ublock's extension **-->** Open the dashboard **-->** My filters, paste the script and click on ``Apply changes``
+If that does not work, Click on Ublock's extension **-->** Open the dashboard **-->** My filters, paste the script and click on ``Apply changes``
